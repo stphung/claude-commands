@@ -1,4 +1,4 @@
-# /brainstorm - Feature Implementation Exploration
+# /spec - Feature Implementation Exploration
 
 ## Input
 Feature to build: $ARGUMENTS

@@ -1,5 +1,8 @@
 # /prime - Initialization & Capability Check
 
+# Input
+Additional instructions: $ARGUMENTS
+
 ## Project Context Setup
 Please analyze the current project and provide:
 
