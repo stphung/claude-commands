@@ -8,11 +8,11 @@ This is a Claude command templates repository containing structured markdown tem
 
 ## Template Files
 
-### brainstorm.md
-A template for exploring multiple implementation approaches for new features. Use this when you need to:
-- Generate multiple solutions for a feature request
-- Compare different architectural approaches
-- Explore trade-offs between implementation strategies
+### onboard.md
+A template for setting up new developers on a project. Use this to:
+- Generate comprehensive setup documentation
+- Create environment configuration guides
+- Document development workflows and conventions
 
 ### prime.md
 A project initialization template that helps establish Claude's understanding of a codebase. Use this to:
@@ -20,11 +20,31 @@ A project initialization template that helps establish Claude's understanding of
 - Set up working patterns and conventions
 - Establish the project context before starting development work
 
-### refine.md
-A code quality improvement template focused on:
-- Identifying missing test coverage
-- Suggesting refactoring opportunities
-- Analyzing code structure and proposing enhancements
+### refactor.md
+A systematic code improvement template for:
+- Identifying refactoring opportunities
+- Modernizing legacy code patterns
+- Improving code maintainability and performance
+
+### spec.md
+A template for exploring multiple implementation approaches for new features. Use this when you need to:
+- Generate multiple solutions for a feature request
+- Compare different architectural approaches
+- Explore trade-offs between implementation strategies
+
+### stabilize.md
+A production readiness checklist template covering:
+- Performance optimization opportunities
+- Error handling improvements
+- Security hardening recommendations
+- Deployment preparation steps
+
+### test.md
+A comprehensive testing strategy template focused on:
+- Analyzing code coverage gaps
+- Prioritizing test implementation by business value
+- Generating high-quality test cases
+- Establishing testing best practices
 
 ## Working with Templates
 
