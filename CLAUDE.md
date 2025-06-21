@@ -46,6 +46,13 @@ A comprehensive testing strategy template focused on:
 - Generating high-quality test cases
 - Establishing testing best practices
 
+### security.md
+A security audit and hardening template that:
+- Identifies vulnerabilities and security risks
+- Implements fixes while ensuring tests pass
+- Adds security-specific test cases
+- Provides remediation guidance by severity
+
 ## Working with Templates
 
 These templates are designed to be copied and customized for specific use cases. When using a template:
